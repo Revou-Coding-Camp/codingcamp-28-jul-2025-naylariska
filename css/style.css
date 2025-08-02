@@ -1,0 +1,45 @@
+.banner {
+  height: 600px;
+  object-fit: cover;
+}
+
+.banner-caption {
+  text-align: left;
+  top: 5%;
+  left: 15%;
+}
+
+/* .message-us {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin: 30px;
+} */
+
+/* .form-section,
+.output-section {
+  width: 48%;
+} */
+
+label {
+  font-weight: bold;
+}
+
+.form-control,
+textarea {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0 15px 0;
+  box-sizing: border-box;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.output-box {
+  border: 1px solid #ccc;
+  padding: 15px;
+  min-height: 150px;
+}
